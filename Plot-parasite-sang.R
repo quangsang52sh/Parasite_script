@@ -4,7 +4,7 @@ if (!require("ggplot2")) {
   library(ggplot2) 
 }
 P_data <- read.csv(file.choose(),header = T)
-plot <- ggplot(P_data, aes(Day,Mean_Intensity_Parasite, color = factor(Month))) + geom_line(size = 0.6) +geom_point(size = 2) + labs(x = "Day", y = "Mean_Intensity") + theme(legend.position = "top")
+plot <- ggplot(P_data, aes(Day,Mean_Intensity_Parasite, color = factor(Month))) + geom_line(size = 0.6) +geom_point(size = 2) + labs(x = "Day", y = "Mean_Intensity") + labs(colour = "Month") + theme(legend.position = "bottom") + ggtitle("Parasite_Plot")
 plot
 if (!require("gganimate")) {
   install.packages("gganimate", dependencies = TRUE)
