@@ -1,0 +1,6 @@
+#!/bin bash
+ls *.fq.gz| tr '.F.' '.1.'| tr '.R.' '.2.'> newname
+ls *.fq.gz| awk '{print "mv "$0}' > oldname
+paste oldname newname > changeFR.sh
+chmod 777 changeFR.sh
+sudo bash changeFR.sh
