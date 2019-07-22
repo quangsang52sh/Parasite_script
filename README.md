@@ -2,7 +2,7 @@
 Hi everyone!
 I'm Sang, from BioTechnology, Nha Trang, Vietnam.
 I am a person who interested in bioinformatics and always find ways to discover a new thing for data analysis.
-I getting started to know bioinformatic when I did my thesis.
+I am  getting started to know bioinformatic when I did my thesis.
 And the first thing which I learn was R-studio.
 It makes me be interested and put the aim as well as the strategy for continuing career.
 I have started and processing NGS using Linux combining R. 
