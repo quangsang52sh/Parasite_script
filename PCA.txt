@@ -1,5 +1,5 @@
 Firstly, You need converting to Genepop format from GenAlEx?
-Please check again this link for explanation: https://github.com/thinhdoanvu/EzRAD/tree/master/GenAlex
+Please check again this link for explanation: https://github.com/quangsang52sh/Parasite_script/blob/master/Genalex.txt
 
 
 #Step 1. Copy all lines with install word beginning
