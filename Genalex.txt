@@ -12,3 +12,4 @@ Using PGD Spider and Choose parameters like so:
 ---Do you want to include a file with population definition? 
 ====YES
 ---Select population definition file: path_your_popmap_file_which_you_saved
+(From link how to create popmap: https://github.com/quangsang52sh/Parasite_script/blob/master/create_popmap.txt)
