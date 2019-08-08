@@ -23,7 +23,7 @@ Listing below are all the steps for you to try to do data analysis
   2.2. PCA by R
 3. How to detect Outlier loci by 
   3.1. Bayescan
-Now, let's begin!!!
+# Now, let's begin!!!
 Click here: 
 https://github.com/quangsang52sh/Parasite_script/blob/master/Genetic%20Program%20and%20How%20to%20Run
 
