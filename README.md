@@ -15,3 +15,7 @@ If you want to ask me, please email: sangcnsh.ntu@gmail.com
 
 
 ####################################################################################
+
+# Hi mie mie !
+Please click here this link for doing step by step
+https://github.com/quangsang52sh/Parasite_script/blob/master/Genetic%20Program%20and%20How%20to%20Run
