@@ -17,6 +17,9 @@ G1_LA46 G1_LA
 .....
 .....
 .....
+##
+
+Convert SNPs data to Structure Data by PGDSpider
 
 ##Run structrue 
 
