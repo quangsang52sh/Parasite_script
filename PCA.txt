@@ -37,5 +37,5 @@ Loading required package: ade4
 #Step 3. Using adegenet Server for convinient
 adegenetServer()
 
-Please, check Fig 1 (link: https://github.com/quangsang52sh/Parasite_script/blob/master/Fig1.PNG) 
+Please, check Fig 1 for reference (link: https://github.com/quangsang52sh/Parasite_script/blob/master/Fig1.PNG) 
 
