@@ -37,5 +37,5 @@ Loading required package: ade4
 #Step 3. Using adegenet Server for convinient
 adegenetServer()
 
-Please, check Fig 1
+Please, check Fig 1 (link: 
 
