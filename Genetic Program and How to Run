@@ -3,7 +3,7 @@
 ##############-------------My full name: TRAN QUANG SANG----------------############################
 ######---This is all the scripts for building the gentic diversity population----###################
 ####################################################################################################
-_________________________________:::::DOWNLOAD PART:::::___________________________________________
+_________________________________:::::DOWNLOADING PART:::::___________________________________________
 #All important programs need to be installed initially
 #Download program from all these links below and installation
 1. STRUCTURE
@@ -15,6 +15,7 @@ _________________________________:::::DOWNLOAD PART:::::________________________
 4. Genalex
 --Go to link: https://drive.google.com/file/d/1STQ2OJH1NJMe9M5NqvUyweVeqdC6e2gU/view?usp=sharing
 5. PGD spider
+--Go to link: https://www.java.com/en/download/windows-64bit.jsp
 --Go to link: https://drive.google.com/file/d/1cWrt9_zg8p12ERo7YLARxN1j7LgyjxpW/view?usp=sharing
 6. Notepad++
 --Go to link: https://notepad-plus-plus.org/download/v7.7.1.html
@@ -31,4 +32,16 @@ https://github.com/quangsang52sh/Parasite_script/blob/master/opimize_K.txt
   2. PCA
   Acess link below:
 https://github.com/quangsang52sh/Parasite_script/blob/master/PCA.txt
-
+  
+  3. Bayescan
+Step 1:Open Bayescan and access to binaries folder 
+Double-click BayeScan2.1_win32bits_GUI.exe for opening sofware
+Step 2: In main field, click button ... to open input file and choose location for output file 
+Default every parameter and Start
+Step 3:  Entering link to download R script for running in R-studio and plotting: 
+https://drive.google.com/file/d/1bylqv74Ksb2ThcR1E0t_oRZ5dPm0neIc/view?usp=sharing
+Step 4: Open R-studio
+Type: source(file.choose()) ---Choose bayescan.r file and wait
+Tab windown show up to click the results file after running Bayesan
+  
+ 
