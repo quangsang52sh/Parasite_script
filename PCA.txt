@@ -1,0 +1,41 @@
+Firstly, You need converting to Genepop format from GenAlEx?
+Please check again this link for explanation: https://github.com/thinhdoanvu/EzRAD/tree/master/GenAlex
+
+
+#Step 1. Copy all lines with install word beginning
+install.packages("devtools")
+install.packages("adegenet")
+install.packages("DBI")
+install.packages("assertthat")
+install.packages("tibble")
+install.packages("scales")"
+install.packages("httpuv")
+install.packages("xtable")
+install.packages("deldir")
+install.packages("LearnBayes")
+install.packages("gmodels")
+install.packages("expm")
+install.packages("sp")
+install.packages("permute")
+install.packages("diveRsity")
+
+#Step 2. Check again if all necessary libraries are good running
+library(devtools)  
+library(adegenet)
+library(plyr)
+
+#Results like here, if your setup successful
+Loading required package: adegenet
+Loading required package: ade4
+
+   /// adegenet 2.0.1 is loaded ////////////
+
+   > overview: '?adegenet'
+   > tutorials/doc/questions: 'adegenetWeb()' 
+   > bug reports/feature requests: adegenetIssues()
+   
+#Step 3. Using adegenet Server for convinient
+adegenetServer()
+
+Please, check Fig 1
+
