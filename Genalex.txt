@@ -1,0 +1,14 @@
+#Step 1. Convert VCF file to Genepop
+Using PGD Spider and Choose parameters like so:
+1.1. VCF Parser question Tab
+-Select input/output
+-- Data input file (File Format): VCF file
+-- Data output file (File Format): Genepop
+-- Select input file: path_you_saved_VCF_file
+-- Select output file: path_you_will_save_Genepop_file
+-Create/Edit SPID file
+--Answer some questions below:
+---What is the ploid of the data: diploid
+---Do you want to include a file with population definition? 
+====YES
+---Select population definition file: path_your_popmap_file_which_you_saved
