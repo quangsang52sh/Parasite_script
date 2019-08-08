@@ -11,3 +11,7 @@ The first thing to do that, message errors display on the screen and I have fixe
 Then to after, I have to familiar gradually for write script and it makes me happy,
 I really wanna share the script to here after everything is done!
 If you want to ask me, please email: sangcnsh.ntu@gmail.com
+
+
+
+####################################################################################
