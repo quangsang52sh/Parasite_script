@@ -2,9 +2,23 @@
 
 Convert SNPs data to Structure Data by PGDSpider
 
-How to convert to structrue Data -- Entering link : 
+How to convert to structrue Data...
+#Step 1. Convert VCF file to Structure
+Using PGD Spider and Choose parameters like so:
+#VCF Parser question Tab
+-Select input/output
+-- Data input file (File Format): VCF 
+-- Data output file (File Format): STRUCTURE
+-- Select input file: path_you_saved_VCF_file
+-- Select output file: path_you_will_save_Structure_file
+-Create/Edit SPID file
+--Answer some questions below:
+---What is the ploid of the data: diploid
+---Do you want to include a file with population definition? 
+====YES
+---Select population definition file: path_your_popmap_file_which_you_saved
 
-How to create popmap ----click link: https://github.com/quangsang52sh/Parasite_script/blob/master/create_popmap.txt
+#How to create popmap ----click link: https://github.com/quangsang52sh/Parasite_script/blob/master/create_popmap.txt
 
 ##Run structrue 
 
