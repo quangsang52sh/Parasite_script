@@ -2,7 +2,7 @@
 
 Convert SNPs data to Structure Data by PGDSpider
 
-How to convert ----click link: 
+How to convert ----click link: https://github.com/quangsang52sh/Parasite_script/blob/master/create_popmap.txt
 
 ##Run structrue 
 
