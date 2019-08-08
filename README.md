@@ -16,6 +16,13 @@ If you want to ask me, please email: sangcnsh.ntu@gmail.com
 # Hi mie mie !
 This is all the thing to do genetic analysis for step by step
 You just do following all these thing and try to challenge yourself....:)
+Listing below are all the steps for you to try to do data analysis
+1. How to ownload program
+2. How to run program base on reference data
+  2.1. Structure
+  2.2. PCA by R
+3. How to detect Outlier loci by 
+  3.1. Bayescan
 Now, let's begin!!!
 Click here: 
 https://github.com/quangsang52sh/Parasite_script/blob/master/Genetic%20Program%20and%20How%20to%20Run
