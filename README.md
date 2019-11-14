@@ -13,7 +13,7 @@ I really wanna share the script to here after everything is done!
 If you want to ask me, please email: sangcnsh.ntu@gmail.com
 
 ####################################################################################
-# Hi mie mie !
+# Hi guys !
 This is all the thing to do genetic analysis for step by step
 You just do following all these thing and try to challenge yourself....:)
 Listing below are all the steps for you to try to do data analysis
